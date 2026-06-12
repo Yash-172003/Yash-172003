@@ -96,11 +96,14 @@ REST API built with Node.js and Express for efficient array processing, categori
 
 ## GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Yash-172003&theme=github-dark-blue&hide_border=true)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yash-172003&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Yash-172003&theme=github-dark-blue&hide_border=true" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yash-172003&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-172003&layout=compact&theme=github_dark&hide_border=true)
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-172003&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 ---
 
