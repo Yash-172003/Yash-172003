@@ -97,7 +97,7 @@ REST API built with Node.js and Express for efficient array processing, categori
 ## GitHub Stats
 
 <a href="https://github.com/Yash-172003">
-  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=Yash-172003&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=Yash-172003&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
   <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-172003&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </a>
 
