@@ -1,6 +1,6 @@
-[![Profile GIF](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://github.com/Yash-172003)
+[![Profile GIF](https://github.com/Yash-172003/Yash-172003/blob/main/github_banner.webp)](https://github.com/Yash-172003)
 
-# Hi, I'm Yashwender Singh 👋
+# Hi, I'm Kanwar Yashwender Singh 👋
 
 **AI Engineer | AI Systems Development | Backend Engineering | LLMs | Cloud AI**
 
@@ -53,22 +53,25 @@ I enjoy working across:
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### SeaLog: Tamper-Evident Logging System
-Blockchain-based secure logging system with Merkle trees and Ethereum anchoring for data integrity, verification, and audit trails.
+### 🏥 Multimodal ICU Patient Monitoring
+AI-powered multimodal ICU monitoring system that analyzes vital signs, medical data, and clinical parameters to support real-time healthcare decision-making.
 
-### AI Multi-Agent Email Spam Filter
-Multi-agent email filtering system built with n8n, Hugging Face, and CleanTalk APIs, designed for high accuracy and reduced false positives.
+### 📧 AI Email Intelligence Agent
+AI-powered email intelligence system built with n8n that automates spam detection, email categorization, Telegram alerts, and Google Sheets logging using Hugging Face AI models.
 
-### procurEngine Chatbot (Abby)
-Role-based procurement chatbot built with FastAPI, LangChain, and GPT-4o-mini to automate support and improve response quality.
+### 🔐 SeaLog
+Blockchain-based tamper-evident logging platform using Merkle Trees and Ethereum anchoring to provide cryptographic proof of log integrity and secure audit trails.
 
-### Invoice Automation System
-Invoice extraction pipeline using Azure AI Document Intelligence and Blob Storage to automate structured data extraction from PDFs.
+### 🧠 DocMind
+Enterprise Document Intelligence Platform designed to process, analyze, and extract insights from business documents using AI-powered workflows.
 
-### Flappy AI (NEAT)
-Neuroevolution-based Flappy Bird AI that learns through generations and visualizes performance progress in real time.
+### 🐦 NEAT Flappy Bird AI
+Autonomous Flappy Bird AI built using NEAT (NeuroEvolution of Augmenting Topologies), demonstrating evolutionary neural networks and agent learning without explicit programming.
+
+### ⚡ hfbl-rest-api
+REST API built with Node.js and Express for efficient array processing, categorization, and backend data operations.
 
 ---
 
